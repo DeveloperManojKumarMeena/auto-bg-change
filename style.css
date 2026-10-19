@@ -30,3 +30,6 @@ body{
     font-size: xx-large;
     cursor:pointer;
 }
+#btn:active{
+    scale: 0.95;
+}
